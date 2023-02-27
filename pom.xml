@@ -102,12 +102,6 @@
         <artifactId>maven-jxr-plugin</artifactId>
         <version>2.1</version>
       </plugin>
-       <repositories>
-    <repository>
-      <id>forplay-legacy</id>
-      <url>http://forplay.googlecode.com/svn/mavenrepo</url>
-    </repository>
-  </repositories>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-checkstyle-plugin</artifactId>
